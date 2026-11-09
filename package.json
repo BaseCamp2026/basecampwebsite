@@ -1,0 +1,11 @@
+{
+  "name": "basecamp-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Basecamp Community Platform — Next.js, GSAP ScrollTrigger 100-frame image background, and Framer Motion interactive UI",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start"
+  }
+}
